@@ -1,0 +1,28 @@
+{
+  "source": "/Users/manojkashyap/Downloads/CollebraDemo/CollebraDemo/View/ContentView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Notes"
+      },
+      {
+        "comment": "",
+        "key": "Add Note"
+      },
+      {
+        "comment": "",
+        "key": "Save"
+      },
+      {
+        "comment": "",
+        "key": "Title"
+      },
+      {
+        "comment": "",
+        "key": "Content"
+      }
+    ]
+  },
+  "version": 1
+}

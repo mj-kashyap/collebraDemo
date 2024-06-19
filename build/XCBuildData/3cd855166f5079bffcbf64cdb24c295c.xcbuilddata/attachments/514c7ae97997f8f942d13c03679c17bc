@@ -1,0 +1,118 @@
+{
+  "" : {
+    "diagnostics" : "/Users/manojkashyap/Downloads/CollebraDemo/build/CollebraDemo.build/Debug-iphoneos/CollebraDemo.build/Objects-normal/arm64/CollebraDemo-master.dia",
+    "emit-module-dependencies" : "/Users/manojkashyap/Downloads/CollebraDemo/build/CollebraDemo.build/Debug-iphoneos/CollebraDemo.build/Objects-normal/arm64/CollebraDemo-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/manojkashyap/Downloads/CollebraDemo/build/CollebraDemo.build/Debug-iphoneos/CollebraDemo.build/Objects-normal/arm64/CollebraDemo-master-emit-module.dia",
+    "swift-dependencies" : "/Users/manojkashyap/Downloads/CollebraDemo/build/CollebraDemo.build/Debug-iphoneos/CollebraDemo.build/Objects-normal/arm64/CollebraDemo-master.swiftdeps"
+  },
+  "/Users/manojkashyap/Downloads/CollebraDemo/build/CollebraDemo.build/Debug-iphoneos/CollebraDemo.build/DerivedSources/CoreDataGenerated/CollebraDemo/CollebraDemo+CoreDataModel.swift" : {
+    "const-values" : "/Users/manojkashyap/Downloads/CollebraDemo/build/CollebraDemo.build/Debug-iphoneos/CollebraDemo.build/Objects-normal/arm64/CollebraDemo+CoreDataModel.swiftconstvalues",
+    "dependencies" : "/Users/manojkashyap/Downloads/CollebraDemo/build/CollebraDemo.build/Debug-iphoneos/CollebraDemo.build/Objects-normal/arm64/CollebraDemo+CoreDataModel.d",
+    "diagnostics" : "/Users/manojkashyap/Downloads/CollebraDemo/build/CollebraDemo.build/Debug-iphoneos/CollebraDemo.build/Objects-normal/arm64/CollebraDemo+CoreDataModel.dia",
+    "index-unit-output-path" : "/CollebraDemo.build/Debug-iphoneos/CollebraDemo.build/Objects-normal/arm64/CollebraDemo+CoreDataModel.o",
+    "llvm-bc" : "/Users/manojkashyap/Downloads/CollebraDemo/build/CollebraDemo.build/Debug-iphoneos/CollebraDemo.build/Objects-normal/arm64/CollebraDemo+CoreDataModel.bc",
+    "object" : "/Users/manojkashyap/Downloads/CollebraDemo/build/CollebraDemo.build/Debug-iphoneos/CollebraDemo.build/Objects-normal/arm64/CollebraDemo+CoreDataModel.o",
+    "swift-dependencies" : "/Users/manojkashyap/Downloads/CollebraDemo/build/CollebraDemo.build/Debug-iphoneos/CollebraDemo.build/Objects-normal/arm64/CollebraDemo+CoreDataModel.swiftdeps",
+    "swiftmodule" : "/Users/manojkashyap/Downloads/CollebraDemo/build/CollebraDemo.build/Debug-iphoneos/CollebraDemo.build/Objects-normal/arm64/CollebraDemo+CoreDataModel~partial.swiftmodule"
+  },
+  "/Users/manojkashyap/Downloads/CollebraDemo/build/CollebraDemo.build/Debug-iphoneos/CollebraDemo.build/DerivedSources/CoreDataGenerated/CollebraDemo/Note+CoreDataClass.swift" : {
+    "const-values" : "/Users/manojkashyap/Downloads/CollebraDemo/build/CollebraDemo.build/Debug-iphoneos/CollebraDemo.build/Objects-normal/arm64/Note+CoreDataClass.swiftconstvalues",
+    "dependencies" : "/Users/manojkashyap/Downloads/CollebraDemo/build/CollebraDemo.build/Debug-iphoneos/CollebraDemo.build/Objects-normal/arm64/Note+CoreDataClass.d",
+    "diagnostics" : "/Users/manojkashyap/Downloads/CollebraDemo/build/CollebraDemo.build/Debug-iphoneos/CollebraDemo.build/Objects-normal/arm64/Note+CoreDataClass.dia",
+    "index-unit-output-path" : "/CollebraDemo.build/Debug-iphoneos/CollebraDemo.build/Objects-normal/arm64/Note+CoreDataClass.o",
+    "llvm-bc" : "/Users/manojkashyap/Downloads/CollebraDemo/build/CollebraDemo.build/Debug-iphoneos/CollebraDemo.build/Objects-normal/arm64/Note+CoreDataClass.bc",
+    "object" : "/Users/manojkashyap/Downloads/CollebraDemo/build/CollebraDemo.build/Debug-iphoneos/CollebraDemo.build/Objects-normal/arm64/Note+CoreDataClass.o",
+    "swift-dependencies" : "/Users/manojkashyap/Downloads/CollebraDemo/build/CollebraDemo.build/Debug-iphoneos/CollebraDemo.build/Objects-normal/arm64/Note+CoreDataClass.swiftdeps",
+    "swiftmodule" : "/Users/manojkashyap/Downloads/CollebraDemo/build/CollebraDemo.build/Debug-iphoneos/CollebraDemo.build/Objects-normal/arm64/Note+CoreDataClass~partial.swiftmodule"
+  },
+  "/Users/manojkashyap/Downloads/CollebraDemo/build/CollebraDemo.build/Debug-iphoneos/CollebraDemo.build/DerivedSources/CoreDataGenerated/CollebraDemo/Note+CoreDataProperties.swift" : {
+    "const-values" : "/Users/manojkashyap/Downloads/CollebraDemo/build/CollebraDemo.build/Debug-iphoneos/CollebraDemo.build/Objects-normal/arm64/Note+CoreDataProperties.swiftconstvalues",
+    "dependencies" : "/Users/manojkashyap/Downloads/CollebraDemo/build/CollebraDemo.build/Debug-iphoneos/CollebraDemo.build/Objects-normal/arm64/Note+CoreDataProperties.d",
+    "diagnostics" : "/Users/manojkashyap/Downloads/CollebraDemo/build/CollebraDemo.build/Debug-iphoneos/CollebraDemo.build/Objects-normal/arm64/Note+CoreDataProperties.dia",
+    "index-unit-output-path" : "/CollebraDemo.build/Debug-iphoneos/CollebraDemo.build/Objects-normal/arm64/Note+CoreDataProperties.o",
+    "llvm-bc" : "/Users/manojkashyap/Downloads/CollebraDemo/build/CollebraDemo.build/Debug-iphoneos/CollebraDemo.build/Objects-normal/arm64/Note+CoreDataProperties.bc",
+    "object" : "/Users/manojkashyap/Downloads/CollebraDemo/build/CollebraDemo.build/Debug-iphoneos/CollebraDemo.build/Objects-normal/arm64/Note+CoreDataProperties.o",
+    "swift-dependencies" : "/Users/manojkashyap/Downloads/CollebraDemo/build/CollebraDemo.build/Debug-iphoneos/CollebraDemo.build/Objects-normal/arm64/Note+CoreDataProperties.swiftdeps",
+    "swiftmodule" : "/Users/manojkashyap/Downloads/CollebraDemo/build/CollebraDemo.build/Debug-iphoneos/CollebraDemo.build/Objects-normal/arm64/Note+CoreDataProperties~partial.swiftmodule"
+  },
+  "/Users/manojkashyap/Downloads/CollebraDemo/build/CollebraDemo.build/Debug-iphoneos/CollebraDemo.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+    "const-values" : "/Users/manojkashyap/Downloads/CollebraDemo/build/CollebraDemo.build/Debug-iphoneos/CollebraDemo.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftconstvalues",
+    "dependencies" : "/Users/manojkashyap/Downloads/CollebraDemo/build/CollebraDemo.build/Debug-iphoneos/CollebraDemo.build/Objects-normal/arm64/GeneratedAssetSymbols.d",
+    "diagnostics" : "/Users/manojkashyap/Downloads/CollebraDemo/build/CollebraDemo.build/Debug-iphoneos/CollebraDemo.build/Objects-normal/arm64/GeneratedAssetSymbols.dia",
+    "index-unit-output-path" : "/CollebraDemo.build/Debug-iphoneos/CollebraDemo.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "llvm-bc" : "/Users/manojkashyap/Downloads/CollebraDemo/build/CollebraDemo.build/Debug-iphoneos/CollebraDemo.build/Objects-normal/arm64/GeneratedAssetSymbols.bc",
+    "object" : "/Users/manojkashyap/Downloads/CollebraDemo/build/CollebraDemo.build/Debug-iphoneos/CollebraDemo.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "swift-dependencies" : "/Users/manojkashyap/Downloads/CollebraDemo/build/CollebraDemo.build/Debug-iphoneos/CollebraDemo.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftdeps",
+    "swiftmodule" : "/Users/manojkashyap/Downloads/CollebraDemo/build/CollebraDemo.build/Debug-iphoneos/CollebraDemo.build/Objects-normal/arm64/GeneratedAssetSymbols~partial.swiftmodule"
+  },
+  "/Users/manojkashyap/Downloads/CollebraDemo/CollebraDemo/CollebraDemoApp.swift" : {
+    "const-values" : "/Users/manojkashyap/Downloads/CollebraDemo/build/CollebraDemo.build/Debug-iphoneos/CollebraDemo.build/Objects-normal/arm64/CollebraDemoApp.swiftconstvalues",
+    "dependencies" : "/Users/manojkashyap/Downloads/CollebraDemo/build/CollebraDemo.build/Debug-iphoneos/CollebraDemo.build/Objects-normal/arm64/CollebraDemoApp.d",
+    "diagnostics" : "/Users/manojkashyap/Downloads/CollebraDemo/build/CollebraDemo.build/Debug-iphoneos/CollebraDemo.build/Objects-normal/arm64/CollebraDemoApp.dia",
+    "index-unit-output-path" : "/CollebraDemo.build/Debug-iphoneos/CollebraDemo.build/Objects-normal/arm64/CollebraDemoApp.o",
+    "llvm-bc" : "/Users/manojkashyap/Downloads/CollebraDemo/build/CollebraDemo.build/Debug-iphoneos/CollebraDemo.build/Objects-normal/arm64/CollebraDemoApp.bc",
+    "object" : "/Users/manojkashyap/Downloads/CollebraDemo/build/CollebraDemo.build/Debug-iphoneos/CollebraDemo.build/Objects-normal/arm64/CollebraDemoApp.o",
+    "swift-dependencies" : "/Users/manojkashyap/Downloads/CollebraDemo/build/CollebraDemo.build/Debug-iphoneos/CollebraDemo.build/Objects-normal/arm64/CollebraDemoApp.swiftdeps",
+    "swiftmodule" : "/Users/manojkashyap/Downloads/CollebraDemo/build/CollebraDemo.build/Debug-iphoneos/CollebraDemo.build/Objects-normal/arm64/CollebraDemoApp~partial.swiftmodule"
+  },
+  "/Users/manojkashyap/Downloads/CollebraDemo/CollebraDemo/Cordinator/AppCordinator.swift" : {
+    "const-values" : "/Users/manojkashyap/Downloads/CollebraDemo/build/CollebraDemo.build/Debug-iphoneos/CollebraDemo.build/Objects-normal/arm64/AppCordinator.swiftconstvalues",
+    "dependencies" : "/Users/manojkashyap/Downloads/CollebraDemo/build/CollebraDemo.build/Debug-iphoneos/CollebraDemo.build/Objects-normal/arm64/AppCordinator.d",
+    "diagnostics" : "/Users/manojkashyap/Downloads/CollebraDemo/build/CollebraDemo.build/Debug-iphoneos/CollebraDemo.build/Objects-normal/arm64/AppCordinator.dia",
+    "index-unit-output-path" : "/CollebraDemo.build/Debug-iphoneos/CollebraDemo.build/Objects-normal/arm64/AppCordinator.o",
+    "llvm-bc" : "/Users/manojkashyap/Downloads/CollebraDemo/build/CollebraDemo.build/Debug-iphoneos/CollebraDemo.build/Objects-normal/arm64/AppCordinator.bc",
+    "object" : "/Users/manojkashyap/Downloads/CollebraDemo/build/CollebraDemo.build/Debug-iphoneos/CollebraDemo.build/Objects-normal/arm64/AppCordinator.o",
+    "swift-dependencies" : "/Users/manojkashyap/Downloads/CollebraDemo/build/CollebraDemo.build/Debug-iphoneos/CollebraDemo.build/Objects-normal/arm64/AppCordinator.swiftdeps",
+    "swiftmodule" : "/Users/manojkashyap/Downloads/CollebraDemo/build/CollebraDemo.build/Debug-iphoneos/CollebraDemo.build/Objects-normal/arm64/AppCordinator~partial.swiftmodule"
+  },
+  "/Users/manojkashyap/Downloads/CollebraDemo/CollebraDemo/Helpers/BiometricHelper/BioMetricHelper.swift" : {
+    "const-values" : "/Users/manojkashyap/Downloads/CollebraDemo/build/CollebraDemo.build/Debug-iphoneos/CollebraDemo.build/Objects-normal/arm64/BioMetricHelper.swiftconstvalues",
+    "dependencies" : "/Users/manojkashyap/Downloads/CollebraDemo/build/CollebraDemo.build/Debug-iphoneos/CollebraDemo.build/Objects-normal/arm64/BioMetricHelper.d",
+    "diagnostics" : "/Users/manojkashyap/Downloads/CollebraDemo/build/CollebraDemo.build/Debug-iphoneos/CollebraDemo.build/Objects-normal/arm64/BioMetricHelper.dia",
+    "index-unit-output-path" : "/CollebraDemo.build/Debug-iphoneos/CollebraDemo.build/Objects-normal/arm64/BioMetricHelper.o",
+    "llvm-bc" : "/Users/manojkashyap/Downloads/CollebraDemo/build/CollebraDemo.build/Debug-iphoneos/CollebraDemo.build/Objects-normal/arm64/BioMetricHelper.bc",
+    "object" : "/Users/manojkashyap/Downloads/CollebraDemo/build/CollebraDemo.build/Debug-iphoneos/CollebraDemo.build/Objects-normal/arm64/BioMetricHelper.o",
+    "swift-dependencies" : "/Users/manojkashyap/Downloads/CollebraDemo/build/CollebraDemo.build/Debug-iphoneos/CollebraDemo.build/Objects-normal/arm64/BioMetricHelper.swiftdeps",
+    "swiftmodule" : "/Users/manojkashyap/Downloads/CollebraDemo/build/CollebraDemo.build/Debug-iphoneos/CollebraDemo.build/Objects-normal/arm64/BioMetricHelper~partial.swiftmodule"
+  },
+  "/Users/manojkashyap/Downloads/CollebraDemo/CollebraDemo/Helpers/CoreDataHelper/DBMAnager.swift" : {
+    "const-values" : "/Users/manojkashyap/Downloads/CollebraDemo/build/CollebraDemo.build/Debug-iphoneos/CollebraDemo.build/Objects-normal/arm64/DBMAnager.swiftconstvalues",
+    "dependencies" : "/Users/manojkashyap/Downloads/CollebraDemo/build/CollebraDemo.build/Debug-iphoneos/CollebraDemo.build/Objects-normal/arm64/DBMAnager.d",
+    "diagnostics" : "/Users/manojkashyap/Downloads/CollebraDemo/build/CollebraDemo.build/Debug-iphoneos/CollebraDemo.build/Objects-normal/arm64/DBMAnager.dia",
+    "index-unit-output-path" : "/CollebraDemo.build/Debug-iphoneos/CollebraDemo.build/Objects-normal/arm64/DBMAnager.o",
+    "llvm-bc" : "/Users/manojkashyap/Downloads/CollebraDemo/build/CollebraDemo.build/Debug-iphoneos/CollebraDemo.build/Objects-normal/arm64/DBMAnager.bc",
+    "object" : "/Users/manojkashyap/Downloads/CollebraDemo/build/CollebraDemo.build/Debug-iphoneos/CollebraDemo.build/Objects-normal/arm64/DBMAnager.o",
+    "swift-dependencies" : "/Users/manojkashyap/Downloads/CollebraDemo/build/CollebraDemo.build/Debug-iphoneos/CollebraDemo.build/Objects-normal/arm64/DBMAnager.swiftdeps",
+    "swiftmodule" : "/Users/manojkashyap/Downloads/CollebraDemo/build/CollebraDemo.build/Debug-iphoneos/CollebraDemo.build/Objects-normal/arm64/DBMAnager~partial.swiftmodule"
+  },
+  "/Users/manojkashyap/Downloads/CollebraDemo/CollebraDemo/Helpers/CoreDataHelper/Persistence.swift" : {
+    "const-values" : "/Users/manojkashyap/Downloads/CollebraDemo/build/CollebraDemo.build/Debug-iphoneos/CollebraDemo.build/Objects-normal/arm64/Persistence.swiftconstvalues",
+    "dependencies" : "/Users/manojkashyap/Downloads/CollebraDemo/build/CollebraDemo.build/Debug-iphoneos/CollebraDemo.build/Objects-normal/arm64/Persistence.d",
+    "diagnostics" : "/Users/manojkashyap/Downloads/CollebraDemo/build/CollebraDemo.build/Debug-iphoneos/CollebraDemo.build/Objects-normal/arm64/Persistence.dia",
+    "index-unit-output-path" : "/CollebraDemo.build/Debug-iphoneos/CollebraDemo.build/Objects-normal/arm64/Persistence.o",
+    "llvm-bc" : "/Users/manojkashyap/Downloads/CollebraDemo/build/CollebraDemo.build/Debug-iphoneos/CollebraDemo.build/Objects-normal/arm64/Persistence.bc",
+    "object" : "/Users/manojkashyap/Downloads/CollebraDemo/build/CollebraDemo.build/Debug-iphoneos/CollebraDemo.build/Objects-normal/arm64/Persistence.o",
+    "swift-dependencies" : "/Users/manojkashyap/Downloads/CollebraDemo/build/CollebraDemo.build/Debug-iphoneos/CollebraDemo.build/Objects-normal/arm64/Persistence.swiftdeps",
+    "swiftmodule" : "/Users/manojkashyap/Downloads/CollebraDemo/build/CollebraDemo.build/Debug-iphoneos/CollebraDemo.build/Objects-normal/arm64/Persistence~partial.swiftmodule"
+  },
+  "/Users/manojkashyap/Downloads/CollebraDemo/CollebraDemo/View/ContentView.swift" : {
+    "const-values" : "/Users/manojkashyap/Downloads/CollebraDemo/build/CollebraDemo.build/Debug-iphoneos/CollebraDemo.build/Objects-normal/arm64/ContentView.swiftconstvalues",
+    "dependencies" : "/Users/manojkashyap/Downloads/CollebraDemo/build/CollebraDemo.build/Debug-iphoneos/CollebraDemo.build/Objects-normal/arm64/ContentView.d",
+    "diagnostics" : "/Users/manojkashyap/Downloads/CollebraDemo/build/CollebraDemo.build/Debug-iphoneos/CollebraDemo.build/Objects-normal/arm64/ContentView.dia",
+    "index-unit-output-path" : "/CollebraDemo.build/Debug-iphoneos/CollebraDemo.build/Objects-normal/arm64/ContentView.o",
+    "llvm-bc" : "/Users/manojkashyap/Downloads/CollebraDemo/build/CollebraDemo.build/Debug-iphoneos/CollebraDemo.build/Objects-normal/arm64/ContentView.bc",
+    "object" : "/Users/manojkashyap/Downloads/CollebraDemo/build/CollebraDemo.build/Debug-iphoneos/CollebraDemo.build/Objects-normal/arm64/ContentView.o",
+    "swift-dependencies" : "/Users/manojkashyap/Downloads/CollebraDemo/build/CollebraDemo.build/Debug-iphoneos/CollebraDemo.build/Objects-normal/arm64/ContentView.swiftdeps",
+    "swiftmodule" : "/Users/manojkashyap/Downloads/CollebraDemo/build/CollebraDemo.build/Debug-iphoneos/CollebraDemo.build/Objects-normal/arm64/ContentView~partial.swiftmodule"
+  },
+  "/Users/manojkashyap/Downloads/CollebraDemo/CollebraDemo/ViewModel/NotesViewModel.swift" : {
+    "const-values" : "/Users/manojkashyap/Downloads/CollebraDemo/build/CollebraDemo.build/Debug-iphoneos/CollebraDemo.build/Objects-normal/arm64/NotesViewModel.swiftconstvalues",
+    "dependencies" : "/Users/manojkashyap/Downloads/CollebraDemo/build/CollebraDemo.build/Debug-iphoneos/CollebraDemo.build/Objects-normal/arm64/NotesViewModel.d",
+    "diagnostics" : "/Users/manojkashyap/Downloads/CollebraDemo/build/CollebraDemo.build/Debug-iphoneos/CollebraDemo.build/Objects-normal/arm64/NotesViewModel.dia",
+    "index-unit-output-path" : "/CollebraDemo.build/Debug-iphoneos/CollebraDemo.build/Objects-normal/arm64/NotesViewModel.o",
+    "llvm-bc" : "/Users/manojkashyap/Downloads/CollebraDemo/build/CollebraDemo.build/Debug-iphoneos/CollebraDemo.build/Objects-normal/arm64/NotesViewModel.bc",
+    "object" : "/Users/manojkashyap/Downloads/CollebraDemo/build/CollebraDemo.build/Debug-iphoneos/CollebraDemo.build/Objects-normal/arm64/NotesViewModel.o",
+    "swift-dependencies" : "/Users/manojkashyap/Downloads/CollebraDemo/build/CollebraDemo.build/Debug-iphoneos/CollebraDemo.build/Objects-normal/arm64/NotesViewModel.swiftdeps",
+    "swiftmodule" : "/Users/manojkashyap/Downloads/CollebraDemo/build/CollebraDemo.build/Debug-iphoneos/CollebraDemo.build/Objects-normal/arm64/NotesViewModel~partial.swiftmodule"
+  }
+}
